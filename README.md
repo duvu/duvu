@@ -11,5 +11,5 @@ I am passionate about coding and creating tools that help others be productive.
 
 
 <!-- Add badges for social media or external links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-blue)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/hoaivubk)
+[![X51labs](https://img.shields.io/badge/Personal%20Site-blue)](https://x51.vn)
