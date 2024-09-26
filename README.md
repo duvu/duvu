@@ -7,7 +7,8 @@ I am passionate about coding and creating tools that help others be productive.
 - 📫 How to reach me: ...
 
 ### 📊 GitHub Stats:
-![Duvu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvu&show_icons=true&theme=radical)
+![Duvu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvu&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
 
 <!-- Add badges for social media or external links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin-profile)
