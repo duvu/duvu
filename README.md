@@ -1,10 +1,10 @@
 # Hello, I'm Duvu!
 
 I am passionate about coding and creating tools that help others be productive. 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on a trading system
+- 🌱 I’m currently learning AI
+- 💬 Ask me about anything
+- 📫 How to reach me: ?
 
 ### 📊 GitHub Stats:
 ![Duvu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvu&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
